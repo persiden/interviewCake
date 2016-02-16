@@ -22,4 +22,4 @@ No "shorting"—you must buy before you sell. You may not buy and sell in the sa
 
 * What if the stock value goes down all day? In that case, the best profit will be negative.
 
-* You can do this in O(n)O(n) time and O(1)O(1) space!
+* You can do this in _O(n)_ time and _O(1)_ space!
